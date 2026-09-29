@@ -59,3 +59,10 @@ Execute the JUnit 5 tests via the standalone console:
 javac -cp "lib/*:bin" -d bin test/*.java
 java -jar lib/junit-platform-console-standalone-1.10.0.jar --class-path "bin:lib/*" --select-package ""
 ```
+
+## 📄 Project Documentation & UML
+For a comprehensive overview of the software engineering design phase, including use case diagrams and textual use cases mapping the actors' interactions (Configuratore, Volontario, Fruitore), please refer to the official documentation:
+* [**Software Engineering UML Documentation (PDF)**](./docs/Software_Engineering_UML_Documentation.pdf)
+``` *(Nota: assicurati che il nome del file nel link corrisponda a quello che hai effettivamente caricato).*
+
+In questo modo, la tua documentazione di progettazione (UML e casi d'uso) diventa facilmente accessibile, rafforzando ulteriormente l'aspetto professionale e accademico del tuo lavoro[cite: 8].
