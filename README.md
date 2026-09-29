@@ -65,4 +65,3 @@ For a comprehensive overview of the software engineering design phase, including
 * [**Software Engineering UML Documentation (PDF)**](./docs/Software_Engineering_UML_Documentation.pdf)
 ``` *(Nota: assicurati che il nome del file nel link corrisponda a quello che hai effettivamente caricato).*
 
-In questo modo, la tua documentazione di progettazione (UML e casi d'uso) diventa facilmente accessibile, rafforzando ulteriormente l'aspetto professionale e accademico del tuo lavoro[cite: 8].
