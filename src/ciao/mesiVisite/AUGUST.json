@@ -1,0 +1,43 @@
+{
+  "datePrecluse": [
+    "--08-25",
+    "--08-12",
+    "--08-06"
+  ],
+  "visite": [
+    {
+      "tipo": {
+        "titolo": "la storia di Brescia",
+        "descrizione": "osservazione reperti storici",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "MONDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--08-10",
+      "volontario": "alex",
+      "numeroIscritti": 10,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "carlo",
+          "codice": 7058,
+          "numeroPersone": 10
+        }
+      ]
+    }
+  ]
+}

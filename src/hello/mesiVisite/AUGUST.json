@@ -1,0 +1,33 @@
+{
+  "datePrecluse": [],
+  "visite": [
+    {
+      "tipo": {
+        "titolo": "Pollo",
+        "descrizione": "cotto cottissimo",
+        "puntoIncontro": "via cor leone",
+        "bigliettoNecessario": false,
+        "minimoPartecipanti": 2,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-12",
+        "giorniDisponibili": [
+          "WEDNESDAY"
+        ],
+        "oraInizio": "12:00",
+        "volontari": [
+          "mario",
+          "luigi"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--08-27",
+      "volontario": "mario",
+      "numeroIscritti": 0,
+      "prenotazioni": []
+    }
+  ]
+}

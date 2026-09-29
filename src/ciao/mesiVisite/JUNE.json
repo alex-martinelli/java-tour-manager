@@ -1,0 +1,53 @@
+{
+  "datePrecluse": [
+    "--06-25",
+    "--06-12",
+    "--06-06"
+  ],
+  "visite": [
+    {
+      "tipo": {
+        "titolo": "piazzale arnaldo",
+        "descrizione": "visita a piazzale arnaldo",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "THURSDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "EFFETTUATA"
+      },
+      "data": "--06-19",
+      "volontario": "mattia",
+      "numeroIscritti": 18,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "carlo",
+          "codice": 7144,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "carlo",
+          "codice": 3527,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "carlo",
+          "codice": 4686,
+          "numeroPersone": 6
+        }
+      ]
+    }
+  ]
+}

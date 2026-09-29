@@ -1,0 +1,35 @@
+{
+  "datePrecluse": [
+    "--08-20"
+  ],
+  "visite": [
+    {
+      "tipo": {
+        "titolo": "Visita Botanica",
+        "descrizione": "Passeggiata nei giardini",
+        "puntoIncontro": "Giardino Est",
+        "bigliettoNecessario": false,
+        "minimoPartecipanti": 3,
+        "minutiDurata": 10,
+        "massimoPartecipanti": 20,
+        "dataInizio": "--07-22",
+        "dataFine": "--12-10",
+        "giorniDisponibili": [
+          "MONDAY"
+        ],
+        "oraInizio": "10:13:39.729691100",
+        "volontari": [
+          "mario",
+          "beppe"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--08-11",
+      "volontario": "beppe",
+      "numeroIscritti": 0,
+      "prenotazioni": []
+    }
+  ]
+}

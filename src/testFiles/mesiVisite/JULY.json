@@ -1,0 +1,249 @@
+{
+  "datePrecluse": [
+    "--07-25",
+    "--07-12",
+    "--07-06"
+  ],
+  "visite": [
+    {
+      "tipo": {
+        "titolo": "la storia di Brescia",
+        "descrizione": "osservazione reperti storici",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "MONDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--07-26",
+      "volontario": "alex",
+      "numeroIscritti": 10,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "carlo",
+          "codice": 8458,
+          "numeroPersone": 10
+        }
+      ]
+    },
+    {
+      "tipo": {
+        "titolo": "piazzale arnaldo",
+        "descrizione": "visita a piazzale arnaldo",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 20,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "THURSDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--07-23",
+      "volontario": "mattia",
+      "numeroIscritti": 14,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "carlo",
+          "codice": 7144,
+          "numeroPersone": 8
+        },
+        {
+          "nomeFruitore": "carlo",
+          "codice": 3527,
+          "numeroPersone": 6
+        }
+      ]
+    },
+    {
+      "tipo": {
+        "titolo": "citta alta",
+        "descrizione": "visita a città alta ",
+        "puntoIncontro": "piazza vecchia",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "THURSDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--07-27",
+      "volontario": "mattia",
+      "numeroIscritti": 0,
+      "prenotazioni": []
+    },
+    {
+      "tipo": {
+        "titolo": "citta alta",
+        "descrizione": "visita a città alta ",
+        "puntoIncontro": "piazza vecchia",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "THURSDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--07-29",
+      "volontario": "mattia",
+      "numeroIscritti": 12,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "carlo",
+          "codice": 4567,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "carlo",
+          "codice": 4567,
+          "numeroPersone": 6
+        }
+      ]
+    },
+    {
+      "tipo": {
+        "titolo": "la storia di Brescia",
+        "descrizione": "osservazione reperti storici",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "MONDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "EFFETTUATA"
+      },
+      "data": "--07-13",
+      "volontario": "alex",
+      "numeroIscritti": 18,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "giuseppe",
+          "codice": 4773,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "giuseppe",
+          "codice": 9088,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "giuseppe",
+          "codice": 7547,
+          "numeroPersone": 6
+        }
+      ]
+    },
+    {
+      "tipo": {
+        "titolo": "la storia di Brescia",
+        "descrizione": "osservazione reperti storici",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "MONDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--07-31",
+      "volontario": "alex",
+      "numeroIscritti": 0,
+      "prenotazioni": []
+    },
+    {
+      "tipo": {
+        "titolo": "la storia di Brescia",
+        "descrizione": "osservazione reperti storici",
+        "puntoIncontro": "piazzale arnaldo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-31",
+        "giorniDisponibili": [
+          "MONDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mattia",
+          "alex"
+        ]
+      },
+      "stato": {
+        "type": "PROPOSTA"
+      },
+      "data": "--07-25",
+      "volontario": "alex",
+      "numeroIscritti": 0,
+      "prenotazioni": []
+    }
+  ]
+}

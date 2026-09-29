@@ -1,0 +1,37 @@
+[
+  {
+    "nomeFruitore": "carlo",
+    "codice": 7144,
+    "numeroPersone": 6
+  },
+  {
+    "nomeFruitore": "carlo",
+    "codice": 3527,
+    "numeroPersone": 6
+  },
+  {
+    "nomeFruitore": "giuseppe",
+    "codice": 4773,
+    "numeroPersone": 6
+  },
+  {
+    "nomeFruitore": "giuseppe",
+    "codice": 9088,
+    "numeroPersone": 6
+  },
+  {
+    "nomeFruitore": "giuseppe",
+    "codice": 7547,
+    "numeroPersone": 6
+  },
+  {
+    "nomeFruitore": "giuseppe",
+    "codice": 1234,
+    "numeroPersone": 10
+  },
+  {
+    "nomeFruitore": "paola",
+    "codice": 5678,
+    "numeroPersone": 10
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "datePrecluse": [
+    "--06-21",
+    "--06-30",
+    "--06-29",
+    "--06-06"
+  ],
+  "visite": [
+    {
+      "tipo": {
+        "titolo": "visita storica a Roma",
+        "descrizione": "Visita nel foro antico di Roma",
+        "puntoIncontro": "Colosseo",
+        "bigliettoNecessario": true,
+        "minimoPartecipanti": 10,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-12",
+        "giorniDisponibili": [
+          "TUESDAY"
+        ],
+        "oraInizio": "10:00",
+        "volontari": [
+          "mario",
+          "luigi"
+        ]
+      },
+      "stato": {
+        "type": "EFFETTUATA"
+      },
+      "data": "--06-03",
+      "volontario": "mario",
+      "numeroIscritti": 18,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "paola",
+          "codice": 3555,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "paola",
+          "codice": 9330,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "paola",
+          "codice": 1681,
+          "numeroPersone": 6
+        }
+      ]
+    },
+    {
+      "tipo": {
+        "titolo": "Colosseo",
+        "descrizione": "visita guidata al colosseo",
+        "puntoIncontro": "Colosseo",
+        "bigliettoNecessario": false,
+        "minimoPartecipanti": 15,
+        "minutiDurata": 120,
+        "massimoPartecipanti": 50,
+        "dataInizio": "--01-01",
+        "dataFine": "--12-12",
+        "giorniDisponibili": [
+          "WEDNESDAY"
+        ],
+        "oraInizio": "12:00",
+        "volontari": [
+          "luigi"
+        ]
+      },
+      "stato": {
+        "type": "EFFETTUATA"
+      },
+      "data": "--06-25",
+      "volontario": "luigi",
+      "numeroIscritti": 18,
+      "prenotazioni": [
+        {
+          "nomeFruitore": "paola",
+          "codice": 1663,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "paola",
+          "codice": 1234,
+          "numeroPersone": 6
+        },
+        {
+          "nomeFruitore": "paola",
+          "codice": 1782,
+          "numeroPersone": 6
+        }
+      ]
+    }
+  ]
+}
