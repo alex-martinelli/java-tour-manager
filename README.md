@@ -29,3 +29,33 @@ This system provides a robust platform for managing the entire lifecycle of cult
 ├── lib/                          # External dependencies (Gson, JUnit Console)
 ├── test/                         # JUnit 5 integration and domain unit tests
 └── README.md
+```
+
+## 🚀 How to Run
+
+**1. Compilation**
+From the project root, compile the source code into a `bin/` directory:
+```bash
+# Linux / macOS
+javac -cp "lib/*" -d bin $(find src -name "*.java")
+
+# Windows
+javac -cp "lib/*" -d bin src/progettoUnibs/Main.java src/progettoUnibs/**/*.java
+```
+
+**2. Execution**
+Run the console application:
+```bash
+# Linux / macOS
+java -cp "bin:lib/*" progettoUnibs.Main
+
+# Windows
+java -cp "bin;lib/*" progettoUnibs.Main
+```
+
+**3. Running the Test Suite**
+Execute the JUnit 5 tests via the standalone console:
+```bash
+javac -cp "lib/*:bin" -d bin test/*.java
+java -jar lib/junit-platform-console-standalone-1.10.0.jar --class-path "bin:lib/*" --select-package ""
+```
