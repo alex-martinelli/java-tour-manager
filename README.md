@@ -1,2 +1,31 @@
-# java-tour-manager
-Java desktop application for tour reservations using MVC architecture, Strategy pattern, and JSON serialization.
+# Guided Tour Management System
+
+![Java](https://img.shields.io/badge/Java-OOP-ED8B00?logo=openjdk&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-Testing-25A162?logo=junit5&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-MVC_%7C_Strategy_%7C_State-success)
+
+Full-stack Java desktop application for guided tour reservations and management. Developed to demonstrate advanced Object-Oriented Programming (OOP) principles, Clean Architecture, and GoF Design Patterns.
+
+## 📌 Project Overview
+This system provides a robust platform for managing the entire lifecycle of cultural tours, with strict role-based access control (Administrators, Guides/Volunteers, and Clients). The architecture relies on standard design patterns to ensure scalability, maintainability, and a clean separation of concerns, abstracting the business logic from the console-based UI and data persistence layers.
+
+## ⚙️ Key Features & Architecture
+* **MVC Architecture:** Strictly separates domain entities (Model), console interactions (View), and business logic coordination (Controller).
+* **Behavioral Design Patterns:**
+  * **Strategy Pattern:** Dynamically manages UI menus and available commands based on the active user role (`MenuConfiguratoreStrategy`, `MenuFruitoreStrategy`).
+  * **State Pattern:** Encapsulates the lifecycle of a guided tour (`StatoProposta`, `StatoConfermata`, `StatoEffettuata`, etc.), handling automatic state transitions based on bookings and chronological constraints.
+* **Repository Pattern:** Decouples the business logic from the physical storage using interface-driven repositories.
+* **Data Persistence (JSON):** Engineered a local data layer using Gson, implementing Custom Type Adapters to serialize and deserialize polymorphic states and Java 8 Time APIs (`LocalDate`, `LocalTime`).
+* **Unit Testing:** Comprehensive test suite built with JUnit 5 to validate state transitions, booking logic, and data loading.
+
+## 📂 Repository Structure
+```text
+├── src/progettoUnibs/
+│   ├── Main.java                 # Application entry point
+│   ├── controller/               # Business logic and repositories
+│   ├── model/                    # Domain entities and state pattern implementations
+│   ├── utils/                    # Utilities and Gson Custom Adapters
+│   └── view/                     # Console UI components
+├── lib/                          # External dependencies (Gson, JUnit Console)
+├── test/                         # JUnit 5 integration and domain unit tests
+└── README.md
